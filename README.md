@@ -2,8 +2,9 @@
 or "TetraQubes OS"
 
 A Reasonably Extra Secure Operating System
-by NixOS and Qubes OS
 
+by NixOS and Qubes OS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 4-dimensional Qubes OS fork. QubesOS =3D . +1D = NixOS container structure. 4D = NixOSs in Qubes OS. 
 
   A Qubes OS fork symbolizing 4-dimensional cubes. The cubes symbolize virtual machines. NixOS can be installed on each cube. Thus, the container layer of NixOS is included in the cubes, changing the cubes from 3D to 4D. +1D = NixOS container structure. This creates 4D Qubes Nexus OS, which are four-dimensional cubes. Colloquially called TetraQubes OS, it is a project that aims to provide a secure and modular operating system structure by combining Qubes OS and NixOS. A reasonably extra secure operating system.  In this project, virtual machines in Qubes OS will run with NixOS by default; and dependencies and packages will be isolated within containers in this NixOS environment. Thanks to this structure, a 4-dimensional layered architecture will be created:
@@ -13,8 +14,40 @@ by NixOS and Qubes OS
   4. Containers - A structure within NixOS where dependencies and packages are run in isolation.
 
 This architecture aims to maximize system security while offering significant improvements in modularity and manageability.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Description: 
 
+4D stands for Qubes OS, which I define as 3D, while layer 4, which is + 1 dimension, stands for NixOS, the Nix package management system and container structure. By adding one more dimension to Qubes OS we will get 4 dimensional cubes. In this way we will increase the Security Level.
 
+Qubes indicates that the main operating system will be Qubes OS.
+
+ The word “Nexus” means connection and union; the letter “N” in the word Nexus and the word “Nex” define NixOS. Nexus specifies that NixOS will run inside virtual machines in Qubes OS. 
+ 
+- Nexus will also be the name of the distribution model, as Qubes OS will be our name if we join the Qubes OS project in the future. We will be distributed as a separate version called “Qubes OS Nexus”.
+ 
+OS indicates that we are a reasonably ultra-secure operating system with a multi-layered security architecture.
+
+- OS also stands for Optimally Shield. 
+
+Optimally Shield's Meaning and Explanation:
+
+    Optimal:
+        The word “optimal” refers to the best or most efficient state. Since your project offers an architecture running NixOS operating systems in virtual machines, this name emphasizes to users that the system will provide the best performance and resource utilization.
+        By taking advantage of the system's efficiency and flexibility, users will be able to manage their applications more effectively.
+
+    Shield:
+        The word “Shield” means protection and security. Since your project is combined with a security-oriented framework like Qubes OS, this term symbolizes the ability to protect users' data and systems from potential threats.
+        “Shield” also represents the layers of protection and security measures provided by the software, which means that users are working in a secure environment.
+
+Project Emphasis:
+
+    Security and Efficiency: Optimaly Shield aims to provide users with a virtual environment that is both secure and efficient. The combination of NixOS and Qubes OS increases the resilience of the system by enhancing security, while at the same time ensuring optimal utilization of resources.
+
+    Flexibility and Control: The project offers users a fourth dimensional structure, giving them the possibility to create independent containers in NixOS environments inside virtual machines. This allows users more flexibility when managing dependencies and packages.
+
+    Community and Contribution: Optimaly Shield, with its open source philosophy, gives developers and users the opportunity to participate and contribute to the project. This allows for continuous development and improvement of the project. 
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Objective
 
